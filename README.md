@@ -1,4 +1,4 @@
-# e_commerce_app_c11
+# e_commerce_app
 
 A new Flutter project.
 
